@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guest-list-app-using-reactjs/static/css/main.c48a95da.css",
+    "main.js": "/guest-list-app-using-reactjs/static/js/main.85e0b1b0.js",
+    "static/js/453.8a745c8a.chunk.js": "/guest-list-app-using-reactjs/static/js/453.8a745c8a.chunk.js",
+    "index.html": "/guest-list-app-using-reactjs/index.html",
+    "main.c48a95da.css.map": "/guest-list-app-using-reactjs/static/css/main.c48a95da.css.map",
+    "main.85e0b1b0.js.map": "/guest-list-app-using-reactjs/static/js/main.85e0b1b0.js.map",
+    "453.8a745c8a.chunk.js.map": "/guest-list-app-using-reactjs/static/js/453.8a745c8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c48a95da.css",
+    "static/js/main.85e0b1b0.js"
+  ]
+}
